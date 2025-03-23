@@ -1,0 +1,45 @@
+
+// html & css
+1 defination ,version and new features , why should use 
+2 event delagation and bubbling and capturing 
+3 void tag and self closing tag and del 
+4 inline and block element 
+5 position : absolute , static ,fixed ,sticky ,relative
+6 display and grid property 
+7 boostrap and tailwind and materialui
+8 border -radius  ,transition ,transform , animation 
+
+// js 
+1 defination ,version and new features , why should use 
+2 asynchronous and synchronous 
+3 regular and arrow function 
+4 let ,var and const 
+5 map,foreach , filter ,reduce , splice ,slice , join 
+6 primitives and non-primitives data types , deep and shallow copy , pass by value and pass by reffrence 
+7 hoisting 
+8 currying , callback ,callback hell , promise , async and wait , closure 
+9 class , constructer , memorization 
+10 cookies and localStorage and sessionStorage
+11 diffrence between axios and fetch , get and post ,settimeout and setinterval 
+12 scope 
+
+// react 
+1 what is react and new version and features , why is react best and should use of this 
+2 strict mode 
+3 useeffect ,usestate , usememo , usecallback , memo ,custom hooks 
+4 control and uncontrol component 
+5 class and function component 
+6 hooks 
+7 virtual drome 
+8 inigration of third party library (google api for login and signup)
+9 system configuration (ram ,rom , processor , edition ,version basic info of phone and system)
+10 redux 
+11 interpreter and complier
+
+
+
+
+people laugh at you if they knew you do coding but you don't know how to send emoji , gif , highlight things for better understanding 
+putting status , download , making reels and story on snapchat atleat you should know try even you like it or you don't like it 
+
+

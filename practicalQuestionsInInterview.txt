@@ -1,0 +1,25 @@
+1 find the dublicate and unique and characterCount  with prebuild method or without prebuild method . 
+2 find the first character of word from the string 
+3 swap two variable value without using third variable 
+4 add the element without pre-build method or with prebuild method 
+5 make incriment and decriment using react and js 
+6 make search functionalities and filter by name and id 
+7 write code how to fetch api using fetch method and axios and display list 
+8 create show more and show less functionalities 
+9 how to create promise and resolve the promise 
+10 make accordian using js 
+11 splice method 
+12 [] , function behaviour , ! ,== ,=== ,... , pre and post operator  , undefined or null ,nan , promise 
+13 create next and prev buttong showing 5 item just like test 
+14 provide display flex property so many times  
+
+
+
+******** provide me build get ,post , delete api for full stack developer 
+******** assign task to build jewellery-website and game-website and night-maker assignment using figma design and 
+prathamonline and job-list-assignment  and strapi project  
+
+
+
+
+

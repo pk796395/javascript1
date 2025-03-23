@@ -1,0 +1,85 @@
+
+1 tell me something about you ?
+Ans :  Thankyou for the giving me opportunity to introduce myself .
+as you know I am priyanka kumari . I have done bechlar degree alongside exploring web development. I have 1.8 years of expreince as frontend developer .
+previously I have worked with eglogics softtech private limited there i have developed career wallet to simplify career search 
+afterthat i have created robust online ecommerce platform for pharmacuetical with the help of optimize code now i am currently working 
+with mohindra mechanical works there i have build user-freindly and accssible site for mmw machine . now i am proficient in html ,css  and react etc .
+that'all from my side .thankyou again .
+
+2 why  do you want to leave your currrent company ?
+Ans : There is only developer . previously they assigned me to build userfriendly website from scratch now they assigned me to task uploading
+product on indiamart , youtube , making canva poster and seo . now they don't have any other project there i can put my full potential 
+to build functionality based website . now i want to work on latest trend and used to cutting edge technolgy to my future growth and help to company also .
+
+                        or
+what is your current role and responsblity 
+1 designing ,maintainting ,optimizing and developing frontend technologies 
+2 ensuring resposiveness and optimized code and enchance performance of website 
+3 collabrating with  owner to design , ship new features and updated regarding my work on daily basis 
+4 debugging and ressolving technical issues promptly 
+5 staying  updated with latest technology  and industry trends 
+6 handle designing ,development , seo ,making banner and canva posture , maintaing youtube and indiamart as well as 
+7 add on the new features and content as per the requirement 
+8 maintaine effiency and accessability 
+
+3 what is your salary expection ?
+Ans : i am expecting 3 lpa based on my current skills and previous performance 
+
+4 why should i hire you ?
+1 i have hands on experience on live project with challenging task 
+2 have strong problem  solving skills ,communication  and research skills 
+3 exicited to work on cutting edge technology and latest trends 
+4 strength + achievement + company benifits 
+4 my work apprach is diffrent from others 
+5 positive additude , nothing is impossible 
+6 i can work solo/indivisual and team as per the requirement 
+7 good with team member and collbarate with other teams member 
+8 pateince ,calm , risk additude , behave well , take in positive additude to rejection ,hard-work , 
+9 solution oriented person , focus on solution not on problems 
+10 adapt new technology and quick learner 
+11 work on diverse project and wager to grow in dynamanic environment 
+12 valueable asset for company 
+13 my skills are align with your organization requirements
+
+****** user-freindly ,streamlined , responsive ,robust ,scabale , better user experince ,usability ,accessability and optimized and enchance performance 
+
+
+
+5 what is your strength and weakness 
+1 keen observation , positive additude , hard-work , pateince , self-aware , focused , continue laarning , positive talk to myself ,
+agressive  listener ,continue working on my bad habbits to improve in good quality  , focused ,learning additude ,new challenges
+2 emotional , complaining -> no result , feel presurreized ,excepatation  , not aggressive listener , not to take action immediate ,loose my focused 
+
+
+6 what is the most challenging task what you have done it ?
+Ans enchance performance of website and optimized code 
+1 added lazy loading  in img tag  and alt attribute for seo  2 added area-label in link tag for inc the accessability of website 
+3 use async and differ in script tag       4 remove all the extra space and formatting code and minify css and js 
+5 added dns-prefetch for all external link   6 use next-gen image format 
+
+careerwallet : created user-freindly job aggreater , simply career search , 
+enchance effieciency and accessblity with the help of optimized code ,fascinating smoother transitions into desired job 
+
+indimedo : developed robust online ecommerce platform for parmacuetical , provide accessible healthcare solution , 
+streamlined user -experience and ensure secure transaction 
+
+mmwmachine : created user-friendly ,seamless navigation and responsive mmwsite site and fast loading website , daily add-on the pages and optimized the code 
+
+
+Q7 tell  me something about you what  you are not mentioned in your resume?
+thanking for asking this questions . i have not mentioned my coding journey in resume . what was very interesting .
+i am not from technical background .how i tackle all the problem which comes in learning time .
+when i started learning coding that time even i don't have any mentor . when i was learning js 
+and creating one form with validation  that time its very tough for me how functionality and validation is 
+working , for sometime i frustrated but i never give up i search 1000 of the youtube videoes and serach on google 
+and ask this question on linkedin , make frd on other platform like josh skills apps . so i have learnt by my life 
+experience is nothing is impossible you decided you can achieve anything . people help you .this way i have learnt 
+problem solving skills , research skills , communicate with person  and positive additude . 
+
+Q8 WHERE DID YOU SEE YOURSELF IN NEXT FIVE YERS ?
+In the next five years i see myself  as a highly full stack dveloper . mastering both frontend and backend technologies .
+i want to work on complex projects and contribute to innovative solutions and take on leadership responsblities .
+such as mentoring junior developer or leading a development team . i also aim to stay updated with latest trends and possibly specialize in areas like 
+cloud computing or ai intigrations in web development . ultimately i want to grow within the company and add significents value to the team and projects i work on .
+

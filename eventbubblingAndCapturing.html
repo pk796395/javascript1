@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Bubbling And Capturing </title>
+</head>
+<body class="body">
+  <div class="parent">
+    parent
+    <p class="child">child 1</p>
+    <p class="child">chid 2</p>
+    <p class="child">child 3</p>
+  </div>
+    <script>
+const body = document.querySelector('.body')
+const parent = document.querySelector('.parent')
+const child = document.querySelectorAll('.child')
+
+// start event capturing  
+//event capturing : event capturing is a  dom propogation mechanisims where an event like click . 
+// start at the  root of  dom and flow down to target element .ancesstor to parent to  targert child element event will be trigger
+// body.addEventListener('click',function(event){
+//  alert(`body is clicked `)
+// },{capture:true})
+
+
+// parent.addEventListener('click',function(event){
+//  alert(`parent is clicked `)
+// },{capture:true})
+
+
+
+// child.forEach((item)=>{
+//     item.addEventListener('click',function(event){
+//     alert(`${event.target.innerHTML} is clicked `)
+// })
+// },{capture:true})
+
+// end event capturing 
+
+
+// start event bubbling 
+//event bubbling : event bubbling is a  dom propogation mechanisims where an event like click . 
+// start at the  root of  dom and flow down to target element . parent to  targert child element event will be trigger
+//event bubbling :Event bubbling, in the context of JavaScript and the DOM, is the default event propagation mechanism where
+//  an event triggered on a child element propagates upward 
+// through its parent and ancestor elements until it reaches the root of the document. 
+
+// body.addEventListener('click',function(event){
+//  alert(`body is clicked `)
+//  event.stopPropagation()
+// })
+
+// parent.addEventListener('click',function(event){
+//  alert(`parent is clicked `)
+//  event.stopPropagation()
+// })
+
+// child.forEach((item)=>{
+//     item.addEventListener('click',function(event){
+//       event.stopPropagation()
+//     alert(`${event.target.innerHTML} is clicked `)
+// })
+// })
+
+// end event bubbling 
+
+
+// start event delegation 
+// event delegation : event delegation is js technique where a single event listener is attached to parent element to 
+//  handle eventss for its child element  . leverging event bubbling efficienctly manage multiple events 
+
+// parent.addEventListener('click',function(event){
+//  alert(`parent is clicked `)
+// const getChild = event.target.querySelectorAll('.child')
+// getChild.forEach((item)=>{
+//     alert(`${item.innerHTML} is clicked `)
+// })
+// })
+
+// end event delegation 
+    </script>
+</body>
+</html>
