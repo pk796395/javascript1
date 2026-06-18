@@ -83,3 +83,48 @@ i want to work on complex projects and contribute to innovative solutions and ta
 such as mentoring junior developer or leading a development team . i also aim to stay updated with latest trends and possibly specialize in areas like 
 cloud computing or ai intigrations in web development . ultimately i want to grow within the company and add significents value to the team and projects i work on .
 
+
+
+
+Q2.  Tell me something about you ?
+Ans.  Thankyou for giving me this opportunity to introduce myself .as you know I am Priyanka . I have 1 year experience as react developer and frontend developer.i am persuing bechlar degree alongside expanding coding skills .
+
+Previously I have worked with EGLogics softtech private limited there I have developed robust user friendly career wallet for job aggregator. I simplify career search and enhance efficiency and accessibility using optimize code .provide facilities smooth transition into desire profession.
+
+Afart from them I have developed my personal projects just like Youtubecolone, moviewebsite, crudapplication,  and tablemanagent etc . Where I took new challenges to make a better version of my coding .where I have used react and redux to manage state effectively.
+
+About my personal project .
+
+Crudapp : crudapp platform enabling superadmin can edit and delete and admin with limit access ,user can view the pages .provide seamlessly access control to manage data and better user experience.
+
+Tablemanagent: this is based on react. With firebase to manage user details . Provide facilities to login , signup, dynamic table with denounced search functionality.
+
+Pratham online: this is a landing page of website with image optimization and responsive for all device streamlined user experience .aiding value in the journey of individual success.
+
+Jobportal : crafted sophisticated desktop job platform , providing facilities to search,sort,secure authentication and seamlessly connecting job seeker and enhance employer experience.
+
+Moviewebsite :web app proving comprehensive information on movie and tvshow .implemented  ui/ux design and real-time data change for enhance user experience.
+
+YouTube colon : user friendly YouTube colone where seamlessly search video content and playback . responsive for all the device.
+
+
+I've compiled all my projects into a live portfolio accessible at portfolio-priyanka-eta.vercel.app. Each project is accompanied by a live link, allowing you to explore them in detail and experience my work firsthand
+
+My current CTC is 1.8 lpa .but based on my working skills and experience I would expect atleast 3 lpa .
+
+Ques:what is more important completing a task  or completing it in visually appealing 
+Manner?.
+Ans:Completing a task effectively is crucial, but a visually appealing presentation can enhance understanding and engagement. For example, I once redesigned a report, making it clearer and more engaging, which significantly improved team feedback and decision-making.
+
+
+
+Message :I am excited to apply for the frontend developer position. , I am confident in my ability to contribute to your team. Thank you for considering my application.
+
+
+Ques ans: you describe a challenging project you worked on recently and how you handled any difficulties that arose during the project?
+
+"In a recent e-commerce project, I faced performance issues with large datasets. I optimized the code by implementing lazy loading and reducing API calls, significantly improving load times and user experience."
+
+I'm excited to apply for ReactJs developer .I am confident I can contribute to your team. Thank you for considering my application.
+https://food-web-app-one.vercel.app/
+
