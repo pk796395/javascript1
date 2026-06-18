@@ -39,7 +39,30 @@
 
 
 
-people laugh at you if they knew you do coding but you don't know how to send emoji , gif , highlight things for better understanding 
-putting status , download , making reels and story on snapchat atleat you should know try even you like it or you don't like it 
+In library you can install many stuff as per your requirements, you can write code whatever you like
+But in framework, you have to follow the architect to write code
+ And most of the time framework has everything you need
+So you don't need to install third party library and other stuff
+Because most of the time you need to install react related stuff to run your code
+Library
+A collection of pre-written code that developers can use to perform specific tasks
+Framework
+A collection of pre-written code that provides a structure for building software applications
+
+
+
+
+
+function factorial(n) {
+    // Base case: when n is 0
+    if (n === 0) {
+        return 1;
+    } else {
+        // Recursive case: n * factorial of (n-1)
+        return n * factorial(n - 1);
+    }
+}
+
+console.log(factorial(5)); // Output: 120
 
 
