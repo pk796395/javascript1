@@ -83,3 +83,79 @@ i want to work on complex projects and contribute to innovative solutions and ta
 such as mentoring junior developer or leading a development team . i also aim to stay updated with latest trends and possibly specialize in areas like 
 cloud computing or ai intigrations in web development . ultimately i want to grow within the company and add significents value to the team and projects i work on .
 
+
+
+
+
+
+
+Q1 What is your expectations from this role? *
+Ans : I expect this role to provide better opportunities for growth, hands-on experience with challenging projects, the opportunity to add new skills, and a collaborative environment where my skills can continuously learn and improve and benefit the company.
+
+
+
+Q2 What are the 3 major tasks that are most important in your current role? 
+Ans : 1 Implement UI/UX enhancements by continuously updating the design and adding new pages as required.
+2 Ensure responsive and SEO-optimized development for better user experience and search engine ranking.
+3 Write clean, efficient, and optimized code to enhance performance, accessibility, and maintainability.
+4 Perform regular website maintenance to fix bugs, optimize efficiency, and improve lead generation.
+
+
+Q3 Do you hold exp with Rest API and API integrations ? If yes, please describe the integrations.*
+Ans : Yes, I have experience with REST APIs and API integrations. I've worked on fetching data using Axios/Fetch, handling authentication (JWT, OAuth), and integrating third-party APIs like Stripe, Firebase, and payment gateways.
+
+Q4 How do you contribute to diverse and inclusive team ?
+I respect different perspectives, encourage open communication, and collaborate effectively. I also ensure that my work is accessible and inclusive for all users.
+
+
+Q5 What is your current role and responsblity  in your current organization ?
+Designing, developing, and maintaining scalable front-end and back-end applications.
+Collaborating with cross-functional teams to define, design, and ship new features.
+Ensuring responsiveness and performance of applications.
+Debugging and resolving technical issues promptly.
+Staying updated with emerging technologies and industry trends.
+
+Q6 Why do you think you are suitable for this role? 
+I am suitable for this role because my approach is different from others. I have excellent research skills, problem-solving skills, hands on experience on live projects. My skills align with your requirements and I can put my all potential to grow my skills and organizations in a positive environment.
+
+Q7 Where do you see yourself in next 5 years ? 
+In the next five years, I see myself as a highly skilled full-stack developer, mastering both front-end and back-end technologies. I want to work on complex projects, contribute to innovative solutions, and take on leadership responsibilities, such as mentoring junior developers or leading a development team. I also aim to stay updated with the latest industry trends and possibly specialize in areas like cloud computing or AI integration in web development. Ultimately, I want to grow within the company and add significant value to the team and projects I work on
+
+Q8 How do you ensure secure transtaction while implimented razor pay 
+I integrated Razorpay into our eCommerce platform, ensuring secure transactions by leveraging its PCI DSS Level 1 compliance, tokenization for sensitive data protection, secure API handling with restricted access, periodic security audits, and real-time monitoring to prevent fraud while maintaining a seamless checkout experience.
+
+To ensure continuous protection of user data and transactions, I implemented real-time monitoring using logging and alerting tools, set up automated anomaly detection to flag suspicious activities, enforced role-based access controls, conducted regular security audits, and maintained an incident response plan to quickly address and mitigate potential breaches while ensuring compliance with industry standards
+
+Q9 why did you not hire till now ?
+I have been actively looking for the right opportunity where I can utilize my skills effectively and contribute meaningfully. I want to join a company that aligns with my career goals and provides a learning environment to grow as a developer. I’ve taken this time to enhance my technical skills and work on personal projects, which I believe will add value to my future role
+
+
+Q10 How do you ensure code quality and maintainability through version control and testing in your frontend development projects?
+ I use Git with a structured branching strategy, code reviews, and meaningful commit messages. Testing includes unit (Jest), integration, and E2E (Cypress). Linting, modular components, optimized state management, and documentation further enhance maintainability, ensuring scalable and efficient frontend development.
+
+
+Q1 tell me something about you ?
+Q2 tell  me something about you what  you are not mentioned in your resume?
+Q3 why should i hire you ?
+Q4 what is your current  roles and responblity in organization?
+Q5 why do you think you are fit for for our orgization ?
+Q6 why do you think you deserve this amt of money  what we will give you ?
+Q7 why do you want to leave current company ?
+Q8 how you are diffrent from other candidate ?
+Q9  describe your challenging task what you achieve ?
+Q19 where do you see after 6 months and five years lator ? 
+Q11 how you can give profit to organization ? 
+
+
+
+
+Develop and Maintain Web Applications: Design and implement interactive and responsive web applications using ReactJS, and other modern JavaScript frameworks/libraries.
+Component Development: Build reusable and modular components that can be used across various sections of the application to maintain a clean and scalable codebase.
+Optimize Application Performance: Optimize web applications for maximum speed and scalability, focusing on reducing load times and improving user experience.
+Collaborate with Backend Developers: Work closely with backend developers to integrate RESTful APIs, manage state, and ensure smooth data exchange between the front end and the backend.
+Write Clean, Maintainable Code: Adhere to best practices and coding standards for ReactJS and JavaScript, ensuring clean, maintainable, and well-documented code.
+Debug and Troubleshoot: Identify bugs, troubleshoot issues, and perform root-cause analysis to resolve problems quickly and efficiently.
+Unit and Integration Testing: Write unit tests for React components using tools like Jest and React Testing Library. Ensure test coverage and follow test-driven development (TDD) principles.
+Cross-Functional Collaboration: Work in an Agile team environment, collaborating with designers, product managers, and other developers to deliver high-quality software solutions.
+Ensure Code Quality: Conduct code reviews, refactor code, and suggest improvements for code efficiency, maintainability, and readability.
+
